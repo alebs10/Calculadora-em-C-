@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\bin\Debug\MaisUmaCalculadoraQualquer.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\bin\Debug\MaisUmaCalculadoraQualquer.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\bin\Debug\MaisUmaCalculadoraQualquer.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\obj\Debug\MaisUmaCalculadoraQualquer.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\obj\Debug\MaisUmaCalculadoraQualquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\obj\Debug\MaisUmaCalculadoraQualquer.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\obj\Debug\MaisUmaCalculadoraQualquer.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MaisUmaCalculadoraQualquer\MaisUmaCalculadoraQualquer\obj\Debug\MaisUmaCalculadoraQualquer.pdb
